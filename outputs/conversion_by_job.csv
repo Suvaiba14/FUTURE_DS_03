@@ -1,0 +1,13 @@
+job,Total_Records,Subscribed,Not_Subscribed,Conversion_Rate_Pct
+retired,230,54,176,23.48
+student,84,19,65,22.62
+unknown,38,7,31,18.42
+management,969,131,838,13.52
+housemaid,112,14,98,12.5
+admin.,478,58,420,12.13
+self-employed,183,20,163,10.93
+technician,768,83,685,10.81
+unemployed,128,13,115,10.16
+services,417,38,379,9.11
+entrepreneur,168,15,153,8.93
+blue-collar,946,69,877,7.29

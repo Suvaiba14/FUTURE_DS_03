@@ -1,0 +1,5 @@
+poutcome,Total_Records,Subscribed,Not_Subscribed,Conversion_Rate_Pct
+success,129,83,46,64.34
+other,197,38,159,19.29
+failure,490,63,427,12.86
+unknown,3705,337,3368,9.1
